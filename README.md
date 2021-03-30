@@ -2,4 +2,4 @@
 
 lien video youtube du prototype :
 https://youtu.be/oeSSjhVDJWQ
-[Caption](https://example.com)
+[Captttion](https://www.example.com)
