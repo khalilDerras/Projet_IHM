@@ -1,6 +1,6 @@
 # Projet_IHM
 
-[Lien de video youtube prototype] (https://youtu.be/oeSSjhVDJWQ)
+[Lien de video youtube prototype] (https://www.youtube.com/watch?v=oeSSjhVDJWQ)
 
 [Interviews](https://github.com/khalilDerras/Projet_IHM/tree/main/Interviews)
 
