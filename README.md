@@ -1,8 +1,6 @@
 # Projet_IHM
 
-[Lien de video youtube prototype] (https://www.youtube.com/watch?v=oeSSjhVDJWQ)
-[Interviews](https://youtube.com/watch?v=oeSSjhVDJWQs)
-
+Les documents de notre projet :
 
 [Interviews](https://github.com/khalilDerras/Projet_IHM/tree/main/Interviews)
 
@@ -17,6 +15,9 @@
 [Design Space](https://github.com/khalilDerras/Projet_IHM/blob/main/design-dimensions_v2.pdf)
 
 [Design Dimension](https://github.com/khalilDerras/Projet_IHM/blob/main/SPACE_DIMENSION.pdf)
+
+[Video Prototype](https://youtube.com/watch?v=oeSSjhVDJWQs)
+
 
 
 
