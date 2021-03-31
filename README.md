@@ -17,6 +17,7 @@ Les documents de notre projet :
 [Design Dimension](https://github.com/khalilDerras/Projet_IHM/blob/main/SPACE_DIMENSION.pdf)
 
 [Video Prototype](https://youtube.com/watch?v=oeSSjhVDJWQs)
+[presentation]
 
 
 
