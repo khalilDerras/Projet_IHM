@@ -2,6 +2,8 @@
 
 Les documents de notre projet :
 
+[presentation](https://github.com/khalilDerras/Projet_IHM/blob/main/presentation.odp)
+
 [Interviews](https://github.com/khalilDerras/Projet_IHM/tree/main/Interviews)
 
 [Interaction Points](https://github.com/khalilDerras/Projet_IHM/tree/main/Interaction%20Points)
@@ -17,7 +19,8 @@ Les documents de notre projet :
 [Design Dimension](https://github.com/khalilDerras/Projet_IHM/blob/main/SPACE_DIMENSION.pdf)
 
 [Video Prototype](https://youtube.com/watch?v=oeSSjhVDJWQs)
-[presentation](https://github.com/khalilDerras/Projet_IHM/blob/main/presentation.odp)
+
+
 
 
 
